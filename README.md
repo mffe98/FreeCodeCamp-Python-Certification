@@ -4,7 +4,7 @@ A Repository of Personal Solutions to Lab and Certification Projects in FreeCode
 
 ## Contents
 
-## Lab Projects
+### Lab Projects
 Projects made to practice related Topics
 
 - [Travel Weather App](Lab%20Projects/01.%20Travel%20Weather%20Planner/README.md)
